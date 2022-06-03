@@ -1,4 +1,4 @@
-# cit-p1
+# Project 1
 
 Learning Outcomes:
   - Gain experience working with CLI commands
